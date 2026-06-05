@@ -66,7 +66,7 @@ Permite analisar contatos com base em tags personalizadas criadas pelo usuário 
 O usuário controla quais contatos entram nas estatísticas.
 ✔ Totalmente anônimo e local
 
-🤝 Intermediação
+% Calculadora de taxas
 
 Simulador de cálculos para intermediações e transações.
 Permite:
@@ -178,7 +178,6 @@ Exibe informações detalhadas do aparelho.
 
 Análise da qualidade da rede Wi-Fi.
 
-
 🔋 Estado da Bateria
 
 Informações sobre uso e desempenho da bateria.
@@ -190,6 +189,10 @@ Verifica a segurança de senhas inseridas manualmente.
 🔑 Gerador de Senhas
 
 Gera senhas seguras automaticamente.
+
+📥 Baixador de Vídeos
+
+Uma ferramenta simples para baixar vídeos por url pública.
 
 🔒 Segurança dos dados
 
