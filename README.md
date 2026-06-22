@@ -17,6 +17,8 @@ Para o funcionamento de algumas funcionalidades, o aplicativo pode solicitar:
 - Otimização de bateria
 - Localização (uso exclusivo da função Conexão Wi-Fi)
 - Instalação de fontes desconhecidas (para atualizações internas)
+- Acessibilidade para Cliques automático funcionar
+- Sobreposição para o Clique automático funcionar
 
 ⚠️ Importante: Nenhuma funcionalidade é executada sem o consentimento do usuário.
 
@@ -193,6 +195,10 @@ Gera senhas seguras automaticamente.
 📥 Baixador de Vídeos
 
 Uma ferramenta simples para baixar vídeos por url pública.
+
+▶️ Clique automático
+
+O Clique Automático utiliza o serviço de acessibilidade para realizar toques simulados na tela exatamente nos locais definidos pelo usuário. A permissão de sobreposição é utilizada para exibir o marcador flutuante que permite selecionar a posição dos cliques. Essas permissões são utilizadas exclusivamente para o funcionamento do recurso de automação solicitado pelo usuário e não são usadas para coletar, armazenar ou compartilhar dados pessoais.
 
 🔒 Segurança dos dados
 
