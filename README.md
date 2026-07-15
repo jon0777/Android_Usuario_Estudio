@@ -200,6 +200,14 @@ Uma ferramenta simples para baixar vídeos por url pública.
 
 O Clique Automático utiliza o serviço de acessibilidade para realizar toques simulados na tela exatamente nos locais definidos pelo usuário. A permissão de sobreposição é utilizada para exibir o marcador flutuante que permite selecionar a posição dos cliques. Essas permissões são utilizadas exclusivamente para o funcionamento do recurso de automação solicitado pelo usuário e não são usadas para coletar, armazenar ou compartilhar dados pessoais.
 
+1️⃣ Números romanos
+
+Função para converter números em Números romanos.
+
+✂️ Extrator de informações
+
+Função para extrair informações de um texto grande ou curto, como: Emojis, e-mails e números. Essas informações são extraídas de um texto colado pelo usuário para ter uma facilidade de copiar partes importantes do texto.
+
 🔒 Segurança dos dados
 
 - Dados armazenados localmente
