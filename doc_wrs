@@ -1,0 +1,245 @@
+WaReply Studio – Documentação Oficial
+
+Última atualização: 06 de agosto de 2026
+
+Sobre o WaReply Studio
+
+O WaReply Studio é um aplicativo de respostas automáticas desenvolvido para WhatsApp e WhatsApp Business, permitindo que o usuário automatize respostas de forma prática, segura e totalmente configurável.
+
+O aplicativo foi desenvolvido com foco em privacidade, controle do usuário e armazenamento local dos dados. Nenhuma ação é executada sem que o usuário tenha ciência e autorize previamente o funcionamento do serviço.
+
+Como o aplicativo funciona
+
+O WaReply Studio funciona através da leitura das notificações geradas pelos aplicativos compatíveis.
+
+Quando o usuário:
+
+concede as permissões necessárias;
+
+ativa manualmente o serviço de respostas automáticas;
+
+cria regras de resposta;
+
+o aplicativo passa a analisar localmente as notificações recebidas e, caso alguma regra cadastrada corresponda à mensagem recebida, envia automaticamente a resposta configurada.
+
+Caso o serviço esteja desligado, nenhuma mensagem é processada e nenhuma resposta automática será enviada.
+
+O usuário pode ativar ou desativar o serviço a qualquer momento.
+
+Permissões utilizadas
+
+Todas as permissões solicitadas pelo WaReply Studio possuem uma finalidade específica e são necessárias para o funcionamento dos recursos oferecidos pelo aplicativo.
+
+Acesso às notificações
+
+Permite identificar as mensagens recebidas pelo WhatsApp e WhatsApp Business para que as regras configuradas pelo usuário possam ser executadas.
+
+Sem essa permissão, o aplicativo não consegue detectar novas mensagens.
+
+Serviço de Acessibilidade
+
+Quando habilitado pelo usuário, o Serviço de Acessibilidade é utilizado exclusivamente para executar o envio automático das respostas configuradas.
+
+O serviço não realiza qualquer ação sem que o usuário tenha ativado previamente a funcionalidade.
+
+
+---
+
+Serviço em Primeiro Plano (Foreground Service)
+
+Mantém o serviço de respostas funcionando de forma estável enquanto o usuário desejar utilizar a automação.
+
+Esse serviço pode ser interrompido pelo próprio usuário a qualquer momento.
+
+
+---
+
+Controle total do usuário
+
+O WaReply Studio foi desenvolvido para que todas as funcionalidades permaneçam sob controle do usuário.
+
+O usuário pode:
+
+ativar ou desativar o serviço;
+
+criar regras de resposta;
+
+editar regras existentes;
+
+excluir regras;
+
+configurar horários de funcionamento;
+
+definir intervalos entre respostas;
+
+impedir respostas duplicadas;
+
+configurar exceções;
+
+habilitar ou desabilitar recursos Premium;
+
+conceder ou revogar permissões quando desejar.
+
+Nenhuma automação é iniciada automaticamente sem a autorização do usuário.
+
+Armazenamento local
+
+As configurações do aplicativo permanecem armazenadas localmente no dispositivo.
+
+Entre elas:
+
+regras de respostas automáticas;
+
+preferências do aplicativo;
+
+horários configurados;
+
+intervalos entre respostas;
+
+configurações de proteção contra duplicidade;
+
+estado do serviço;
+
+configurações Premium;
+
+demais informações necessárias para o funcionamento do aplicativo.
+
+Esses dados permanecem armazenados exclusivamente no dispositivo do usuário.
+
+Sistema Premium
+
+O WaReply Studio possui um sistema de autorização de recursos Premium baseado no identificador do dispositivo (Device ID).
+
+Para liberar os recursos Premium, são armazenadas apenas as seguintes informações:
+
+nome completo do cliente;
+
+Device ID do aparelho.
+
+
+Esses dados são utilizados exclusivamente para autorizar o uso dos recursos Premium no dispositivo cadastrado.
+
+O sistema não coleta:
+
+mensagens;
+
+contatos;
+
+histórico de conversas;
+
+fotos;
+
+vídeos;
+
+documentos;
+
+localização;
+
+arquivos pessoais;
+
+qualquer outro conteúdo do dispositivo.
+
+
+
+---
+
+Coleta de dados
+
+O WaReply Studio não coleta, vende ou compartilha dados pessoais dos usuários.
+
+O aplicativo não envia para servidores informações como:
+
+mensagens do WhatsApp;
+
+mensagens do WhatsApp Business;
+
+contatos;
+
+notificações;
+
+arquivos;
+
+mídias;
+
+conversas;
+
+histórico de utilização.
+
+
+Os dados necessários ao funcionamento do aplicativo permanecem armazenados localmente.
+
+Privacidade
+
+A privacidade do usuário é um dos principais objetivos do WaReply Studio.
+
+O aplicativo foi desenvolvido seguindo os seguintes princípios:
+
+mínima coleta de informações;
+
+processamento local sempre que possível;
+
+transparência sobre todas as permissões utilizadas;
+
+controle total do usuário sobre o funcionamento do aplicativo;
+
+possibilidade de interromper o serviço a qualquer momento.
+
+Segurança
+
+Sempre que aplicável, as informações locais podem ser protegidas utilizando mecanismos de criptografia fornecidos pelo Android.
+
+O aplicativo procura reduzir ao máximo o armazenamento de informações sensíveis e utiliza apenas os dados necessários para seu funcionamento.
+
+Responsabilidade do usuário
+
+O usuário é o único responsável pelas regras de respostas automáticas criadas dentro do aplicativo.
+
+Ao utilizar o WaReply Studio, o usuário compromete-se a não utilizar o aplicativo para:
+
+envio de spam;
+
+assédio;
+
+fraudes;
+
+divulgação de conteúdo ilícito;
+
+automações que violem os Termos de Uso das plataformas de mensagens;
+
+qualquer atividade ilegal.
+
+Aplicativos compatíveis
+
+Atualmente o WaReply Studio oferece suporte para:
+
+WhatsApp
+
+WhatsApp Business
+
+O funcionamento depende das APIs, notificações e recursos disponibilizados pelo sistema Android e pelos respectivos aplicativos.
+
+Independência da aplicação
+
+O WaReply Studio é um aplicativo independente.
+
+Não possui qualquer vínculo, parceria, patrocínio, autorização ou afiliação com:
+
+WhatsApp;
+
+WhatsApp Business;
+
+Meta Platforms, Inc.
+
+Todas as marcas registradas pertencem aos seus respectivos proprietários.
+
+Alterações nesta documentação
+
+Esta documentação poderá ser atualizada sempre que novos recursos forem adicionados ao aplicativo ou quando houver alterações relevantes em seu funcionamento.
+
+Recomenda-se consultar periodicamente a versão mais recente deste documento.
+
+Contato
+
+Caso tenha dúvidas, sugestões ou encontre algum problema relacionado ao WaReply Studio, entre em contato pelos canais oficiais disponibilizados no repositório do projeto ou na página oficial do aplicativo.
+
+© 2026 WaReply Studio. Todos os direitos reservados.
